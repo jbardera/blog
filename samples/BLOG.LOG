@@ -1,0 +1,26 @@
+
+Binkley-Style Log Analyzer v1.0
+Author: joanmi@bbs-ce.uab.es - Joanmi Bardera 2:343/143.2
+
+Command Line = d:/utl/blog/blog.exe kk 
+Checking file kk
+Please wait...
+
+[BINK] Connection from Albedo BBS (2:343/128.15@fidonet.org) at 24000/Arq
+[BINK] Connection from Indio BBS (2:343/143.69@fidonet.org) at 24000/Arq
+[BINK] File Request of PMVKP1_2.ZIP
+[BINK] Connection from Horta Point (757:101/30.4@redbbs.org) at 14400
+
+From: 09 Jan to 10 Jan
+           Connects  Freq's  KB/Sent  KB/Rec.
+Binkley           3       1     491k       4k
+Maximus           1
+Nulls             0
+Total calls       4
+
+Address         Calls (%) - From 09 Jan to 10 Jan
+2:343/128.15    - 1 (33.3%)
+2:343/143.69    - 1 (33.3%)
+757:101/30.4    - 1 (33.3%)
+
+ErrorLevel = 0

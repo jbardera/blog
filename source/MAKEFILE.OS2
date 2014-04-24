@@ -1,0 +1,7 @@
+CC = gcc
+CFLAGS = -O2 -ansi -Ie:/emx/include -I.  -DLONG_IS_32BIT -DULONG_NOT_DEFINED
+
+all:		blogp
+
+blogp:	blog.c
+	$(CC) $(CFLAGS) 	-o	blogp.exe blog.c

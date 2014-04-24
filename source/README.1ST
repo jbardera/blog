@@ -1,0 +1,21 @@
+
+BLOG100.ZIP
+
+Files:
+
+blog.exe  - DOS executable
+go32.exe  - 386 extender for DOS
+blogp.exe - OS/2 executable
+emx.dll   - DLL for OS/2 version
+
+Usage:
+
+blog/blogp <file_log>
+
+(useful to redirect output to a file, i.e. "blogp binkley.log > blog.log")
+
+Author:
+
+You can contact with me at joanmi@bbs-ce.uab.es (Internet) or to
+my Fidonet address: Joanmi Bardera 2:343/143.2
+

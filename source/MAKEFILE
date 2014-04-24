@@ -1,0 +1,10 @@
+CC = gcc
+CFLAGS = -O2 -ansi -Id:/emx/include -I.  -DLONG_IS_32BIT -DULONG_NOT_DEFINED -DDOS
+
+all:	blog
+
+blog: blog.c
+	$(CC) $(CFLAGS) -o	blog	blog.c
+	strip blog
+	coff2exe blog
+	del blog
